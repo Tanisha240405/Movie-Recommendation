@@ -43,10 +43,17 @@ On Windows (CMD):
 set TMDB_API_KEY=your_key_here
 Then run the app:
 streamlit run app.py
-📄 Report
+
+## Preview 
+
+![WhatsApp Image 2025-06-27 at 3 00 14 PM](https://github.com/user-attachments/assets/59c218ee-7ba2-47b0-b267-7cb51bfeb473)
+
+![WhatsApp Image 2025-06-27 at 3 00 14 PM (1)](https://github.com/user-attachments/assets/0398e413-0264-4e7e-8adc-9d75a9d91298)
+
+## 📄 Report
 
 Refer to Movie_Recommendation_Report.pdf for technical documentation and summary.
 
-👨‍💻 Developed By
+## 👨‍💻 Developed By
 
 Tanisha Bhargava – Internship Project, June 2025
